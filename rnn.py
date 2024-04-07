@@ -19,6 +19,7 @@ unk = "<UNK>"
 # Consult the PyTorch documentation for information on the functions used below:
 # https://pytorch.org/docs/stable/torch.html
 class RNN(nn.Module):
+
     def __init__(self, input_dim, h):  # Add relevant parameters
         super(RNN, self).__init__()
         self.h = h
@@ -33,18 +34,13 @@ class RNN(nn.Module):
 
     def forward(self, inputs):
         # [to fill] obtain hidden layer representation (https://pytorch.org/docs/stable/generated/torch.nn.RNN.html)
-        _, hidden = self.rnn(inputs)
+        rnn_output, _ = self.rnn(inputs)
         # [to fill] obtain output layer representations
-        output = self.W(hidden[-1])
-        output = self.softmax(output)
-
+        output = self.W(rnn_output)
         # [to fill] sum over output
         summed_output = torch.sum(output, dim=0)
-        summed_output = summed_output.unsqueeze(0)
-
         # [to fill] obtain probability dist.
         predicted_vector = self.softmax(summed_output)
-
         return predicted_vector
 
 
