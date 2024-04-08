@@ -1,0 +1,906 @@
+Start of testing: Namespace(hidden_dim=10, epochs=100, train_data='./training.json', val_data='./validation.json', test_data='to fill', do_train=False)Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.55875
+Validation time for this epoch: 0.18127894401550293
+Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.55375
+Validation time for this epoch: 0.187605619430542
+Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.5625
+Validation time for this epoch: 0.179931640625
+Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.59625
+Validation time for this epoch: 0.19006705284118652
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.57
+Validation time for this epoch: 0.20750021934509277
+Validation completed for epoch 6
+Validation accuracy for epoch 6: 0.555
+Validation time for this epoch: 0.19974780082702637
+Validation completed for epoch 7
+Validation accuracy for epoch 7: 0.5675
+Validation time for this epoch: 0.20287227630615234
+Validation completed for epoch 8
+Validation accuracy for epoch 8: 0.52625
+Validation time for this epoch: 0.21512532234191895
+Validation completed for epoch 9
+Validation accuracy for epoch 9: 0.6025
+Validation time for this epoch: 0.22002482414245605
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.57125
+Validation time for this epoch: 0.2201552391052246
+Validation completed for epoch 11
+Validation accuracy for epoch 11: 0.615
+Validation time for this epoch: 0.19394969940185547
+Validation completed for epoch 12
+Validation accuracy for epoch 12: 0.58625
+Validation time for this epoch: 0.22399067878723145
+Validation completed for epoch 13
+Validation accuracy for epoch 13: 0.59625
+Validation time for this epoch: 0.24887371063232422
+Validation completed for epoch 14
+Validation accuracy for epoch 14: 0.6125
+Validation time for this epoch: 0.20709705352783203
+Validation completed for epoch 15
+Validation accuracy for epoch 15: 0.61125
+Validation time for this epoch: 0.1982731819152832
+Validation completed for epoch 16
+Validation accuracy for epoch 16: 0.54
+Validation time for this epoch: 0.19274067878723145
+Validation completed for epoch 17
+Validation accuracy for epoch 17: 0.60375
+Validation time for this epoch: 0.19562411308288574
+Validation completed for epoch 18
+Validation accuracy for epoch 18: 0.5925
+Validation time for this epoch: 0.19402003288269043
+Validation completed for epoch 19
+Validation accuracy for epoch 19: 0.61125
+Validation time for this epoch: 0.20643997192382812
+Validation completed for epoch 20
+Validation accuracy for epoch 20: 0.5875
+Validation time for this epoch: 0.18830466270446777
+Validation completed for epoch 21
+Validation accuracy for epoch 21: 0.59125
+Validation time for this epoch: 0.18442082405090332
+Validation completed for epoch 22
+Validation accuracy for epoch 22: 0.59375
+Validation time for this epoch: 0.19107842445373535
+Validation completed for epoch 23
+Validation accuracy for epoch 23: 0.6
+Validation time for this epoch: 0.19818615913391113
+Validation completed for epoch 24
+Validation accuracy for epoch 24: 0.59625
+Validation time for this epoch: 0.2158811092376709
+Validation completed for epoch 25
+Validation accuracy for epoch 25: 0.6
+Validation time for this epoch: 0.20368409156799316
+Validation completed for epoch 26
+Validation accuracy for epoch 26: 0.59
+Validation time for this epoch: 0.19403076171875
+Validation completed for epoch 27
+Validation accuracy for epoch 27: 0.5425
+Validation time for this epoch: 0.21329927444458008
+Validation completed for epoch 28
+Validation accuracy for epoch 28: 0.5825
+Validation time for this epoch: 0.19561529159545898
+Validation completed for epoch 29
+Validation accuracy for epoch 29: 0.5975
+Validation time for this epoch: 0.2001643180847168
+Validation completed for epoch 30
+Validation accuracy for epoch 30: 0.59125
+Validation time for this epoch: 0.19847989082336426
+Validation completed for epoch 31
+Validation accuracy for epoch 31: 0.56125
+Validation time for this epoch: 0.20682454109191895
+Validation completed for epoch 32
+Validation accuracy for epoch 32: 0.60375
+Validation time for this epoch: 0.20538568496704102
+Validation completed for epoch 33
+Validation accuracy for epoch 33: 0.6125
+Validation time for this epoch: 0.1931138038635254
+Validation completed for epoch 34
+Validation accuracy for epoch 34: 0.59875
+Validation time for this epoch: 0.36750078201293945
+Validation completed for epoch 35
+Validation accuracy for epoch 35: 0.58875
+Validation time for this epoch: 0.34513020515441895
+Validation completed for epoch 36
+Validation accuracy for epoch 36: 0.5825
+Validation time for this epoch: 0.3800053596496582
+Validation completed for epoch 37
+Validation accuracy for epoch 37: 0.60375
+Validation time for this epoch: 0.36119985580444336
+Validation completed for epoch 38
+Validation accuracy for epoch 38: 0.57875
+Validation time for this epoch: 0.3527343273162842
+Validation completed for epoch 39
+Validation accuracy for epoch 39: 0.58875
+Validation time for this epoch: 0.35417747497558594
+Validation completed for epoch 40
+Validation accuracy for epoch 40: 0.5825
+Validation time for this epoch: 0.3511955738067627
+Validation completed for epoch 41
+Validation accuracy for epoch 41: 0.58875
+Validation time for this epoch: 0.34388208389282227
+Validation completed for epoch 42
+Validation accuracy for epoch 42: 0.62
+Validation time for this epoch: 0.18841886520385742
+Validation completed for epoch 43
+Validation accuracy for epoch 43: 0.56625
+Validation time for this epoch: 0.18806743621826172
+Validation completed for epoch 44
+Validation accuracy for epoch 44: 0.5975
+Validation time for this epoch: 0.1872866153717041
+Validation completed for epoch 45
+Validation accuracy for epoch 45: 0.6075
+Validation time for this epoch: 0.3486781120300293
+Validation completed for epoch 46
+Validation accuracy for epoch 46: 0.565
+Validation time for this epoch: 0.3486330509185791
+Validation completed for epoch 47
+Validation accuracy for epoch 47: 0.5925
+Validation time for this epoch: 0.3545963764190674
+Validation completed for epoch 48
+Validation accuracy for epoch 48: 0.585
+Validation time for this epoch: 0.3506336212158203
+Validation completed for epoch 49
+Validation accuracy for epoch 49: 0.575
+Validation time for this epoch: 0.3570983409881592
+Validation completed for epoch 50
+Validation accuracy for epoch 50: 0.5975
+Validation time for this epoch: 0.3596034049987793
+Validation completed for epoch 51
+Validation accuracy for epoch 51: 0.58375
+Validation time for this epoch: 0.34945154190063477
+Validation completed for epoch 52
+Validation accuracy for epoch 52: 0.58125
+Validation time for this epoch: 0.3624277114868164
+Validation completed for epoch 53
+Validation accuracy for epoch 53: 0.57625
+Validation time for this epoch: 0.35184669494628906
+Validation completed for epoch 54
+Validation accuracy for epoch 54: 0.58625
+Validation time for this epoch: 0.34448695182800293
+Validation completed for epoch 55
+Validation accuracy for epoch 55: 0.5975
+Validation time for this epoch: 0.34738612174987793
+Validation completed for epoch 56
+Validation accuracy for epoch 56: 0.60625
+Validation time for this epoch: 0.35158252716064453
+Validation completed for epoch 57
+Validation accuracy for epoch 57: 0.59
+Validation time for this epoch: 0.35315847396850586
+Validation completed for epoch 58
+Validation accuracy for epoch 58: 0.59125
+Validation time for this epoch: 0.3515951633453369
+Validation completed for epoch 59
+Validation accuracy for epoch 59: 0.59
+Validation time for this epoch: 0.18387484550476074
+Validation completed for epoch 60
+Validation accuracy for epoch 60: 0.58875
+Validation time for this epoch: 0.18543362617492676
+Validation completed for epoch 61
+Validation accuracy for epoch 61: 0.59375
+Validation time for this epoch: 0.18494939804077148
+Validation completed for epoch 62
+Validation accuracy for epoch 62: 0.56875
+Validation time for this epoch: 0.1811983585357666
+Validation completed for epoch 63
+Validation accuracy for epoch 63: 0.53375
+Validation time for this epoch: 0.17896223068237305
+Validation completed for epoch 64
+Validation accuracy for epoch 64: 0.59625
+Validation time for this epoch: 0.18357396125793457
+Validation completed for epoch 65
+Validation accuracy for epoch 65: 0.605
+Validation time for this epoch: 0.19024038314819336
+Validation completed for epoch 66
+Validation accuracy for epoch 66: 0.595
+Validation time for this epoch: 0.18951892852783203
+Validation completed for epoch 67
+Validation accuracy for epoch 67: 0.5875
+Validation time for this epoch: 0.19001007080078125
+Validation completed for epoch 68
+Validation accuracy for epoch 68: 0.6
+Validation time for this epoch: 0.18423104286193848
+Validation completed for epoch 69
+Validation accuracy for epoch 69: 0.6075
+Validation time for this epoch: 0.1932542324066162
+Validation completed for epoch 70
+Validation accuracy for epoch 70: 0.5975
+Validation time for this epoch: 0.18982338905334473
+Validation completed for epoch 71
+Validation accuracy for epoch 71: 0.61375
+Validation time for this epoch: 0.18686676025390625
+Validation completed for epoch 72
+Validation accuracy for epoch 72: 0.58375
+Validation time for this epoch: 0.1913282871246338
+Validation completed for epoch 73
+Validation accuracy for epoch 73: 0.5975
+Validation time for this epoch: 0.18540191650390625
+Validation completed for epoch 74
+Validation accuracy for epoch 74: 0.6
+Validation time for this epoch: 0.19777297973632812
+Validation completed for epoch 75
+Validation accuracy for epoch 75: 0.5625
+Validation time for this epoch: 0.1827409267425537
+Validation completed for epoch 76
+Validation accuracy for epoch 76: 0.57625
+Validation time for this epoch: 0.18089962005615234
+Validation completed for epoch 77
+Validation accuracy for epoch 77: 0.5975
+Validation time for this epoch: 0.18859601020812988
+Validation completed for epoch 78
+Validation accuracy for epoch 78: 0.60125
+Validation time for this epoch: 0.19034910202026367
+Validation completed for epoch 79
+Validation accuracy for epoch 79: 0.5775
+Validation time for this epoch: 0.18333768844604492
+Validation completed for epoch 80
+Validation accuracy for epoch 80: 0.6
+Validation time for this epoch: 0.19273042678833008
+Validation completed for epoch 81
+Validation accuracy for epoch 81: 0.57875
+Validation time for this epoch: 0.1846752166748047
+Validation completed for epoch 82
+Validation accuracy for epoch 82: 0.59375
+Validation time for this epoch: 0.19149255752563477
+Validation completed for epoch 83
+Validation accuracy for epoch 83: 0.5875
+Validation time for this epoch: 0.18134260177612305
+Validation completed for epoch 84
+Validation accuracy for epoch 84: 0.5875
+Validation time for this epoch: 0.18372321128845215
+Validation completed for epoch 85
+Validation accuracy for epoch 85: 0.5825
+Validation time for this epoch: 0.19296479225158691
+Validation completed for epoch 86
+Validation accuracy for epoch 86: 0.56125
+Validation time for this epoch: 0.18439292907714844
+Validation completed for epoch 87
+Validation accuracy for epoch 87: 0.60125
+Validation time for this epoch: 0.1793959140777588
+Validation completed for epoch 88
+Validation accuracy for epoch 88: 0.585
+Validation time for this epoch: 0.18703007698059082
+Validation completed for epoch 89
+Validation accuracy for epoch 89: 0.59125
+Validation time for this epoch: 0.18113994598388672
+Validation completed for epoch 90
+Validation accuracy for epoch 90: 0.59125
+Validation time for this epoch: 0.18123245239257812
+Validation completed for epoch 91
+Validation accuracy for epoch 91: 0.58
+Validation time for this epoch: 0.22312593460083008
+Validation completed for epoch 92
+Validation accuracy for epoch 92: 0.59375
+Validation time for this epoch: 0.18916583061218262
+Validation completed for epoch 93
+Validation accuracy for epoch 93: 0.58375
+Validation time for this epoch: 0.18214654922485352
+Validation completed for epoch 94
+Validation accuracy for epoch 94: 0.59
+Validation time for this epoch: 0.18543505668640137
+Validation completed for epoch 95
+Validation accuracy for epoch 95: 0.59125
+Validation time for this epoch: 0.1910400390625
+Validation completed for epoch 96
+Validation accuracy for epoch 96: 0.58625
+Validation time for this epoch: 0.18412089347839355
+Validation completed for epoch 97
+Validation accuracy for epoch 97: 0.59875
+Validation time for this epoch: 0.1866147518157959
+Validation completed for epoch 98
+Validation accuracy for epoch 98: 0.6
+Validation time for this epoch: 0.19388079643249512
+Validation completed for epoch 99
+Validation accuracy for epoch 99: 0.5975
+Validation time for this epoch: 0.18265175819396973
+Validation completed for epoch 100
+Validation accuracy for epoch 100: 0.60375
+Validation time for this epoch: 0.1832125186920166
+End of program
+
+Start of testing: Namespace(hidden_dim=32, epochs=100, train_data='./training.json', val_data='./validation.json', test_data='to fill', do_train=False)Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.5225
+Validation time for this epoch: 0.4208667278289795
+Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.56625
+Validation time for this epoch: 0.4043307304382324
+Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.60375
+Validation time for this epoch: 0.3959324359893799
+Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.5625
+Validation time for this epoch: 0.3971133232116699
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.63125
+Validation time for this epoch: 0.39589643478393555
+Validation completed for epoch 6
+Validation accuracy for epoch 6: 0.60875
+Validation time for this epoch: 0.3911118507385254
+Validation completed for epoch 7
+Validation accuracy for epoch 7: 0.5575
+Validation time for this epoch: 0.2090907096862793
+Validation completed for epoch 8
+Validation accuracy for epoch 8: 0.58625
+Validation time for this epoch: 0.3938281536102295
+Validation completed for epoch 9
+Validation accuracy for epoch 9: 0.62125
+Validation time for this epoch: 0.399578332901001
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.6025
+Validation time for this epoch: 0.3950948715209961
+Validation completed for epoch 11
+Validation accuracy for epoch 11: 0.6175
+Validation time for this epoch: 0.4057281017303467
+Validation completed for epoch 12
+Validation accuracy for epoch 12: 0.6125
+Validation time for this epoch: 0.3879122734069824
+Validation completed for epoch 13
+Validation accuracy for epoch 13: 0.56
+Validation time for this epoch: 0.40644073486328125
+Validation completed for epoch 14
+Validation accuracy for epoch 14: 0.60125
+Validation time for this epoch: 0.40023136138916016
+Validation completed for epoch 15
+Validation accuracy for epoch 15: 0.625
+Validation time for this epoch: 0.3940725326538086
+Validation completed for epoch 16
+Validation accuracy for epoch 16: 0.605
+Validation time for this epoch: 0.3967297077178955
+Validation completed for epoch 17
+Validation accuracy for epoch 17: 0.6075
+Validation time for this epoch: 0.21693110466003418
+Validation completed for epoch 18
+Validation accuracy for epoch 18: 0.615
+Validation time for this epoch: 0.2132723331451416
+Validation completed for epoch 19
+Validation accuracy for epoch 19: 0.605
+Validation time for this epoch: 0.21838164329528809
+Validation completed for epoch 20
+Validation accuracy for epoch 20: 0.6125
+Validation time for this epoch: 0.39362168312072754
+Validation completed for epoch 21
+Validation accuracy for epoch 21: 0.6025
+Validation time for this epoch: 0.40424656867980957
+Validation completed for epoch 22
+Validation accuracy for epoch 22: 0.53625
+Validation time for this epoch: 0.3977673053741455
+Validation completed for epoch 23
+Validation accuracy for epoch 23: 0.5825
+Validation time for this epoch: 0.41126203536987305
+Validation completed for epoch 24
+Validation accuracy for epoch 24: 0.6075
+Validation time for this epoch: 0.21132254600524902
+Validation completed for epoch 25
+Validation accuracy for epoch 25: 0.5975
+Validation time for this epoch: 0.39540696144104004
+Validation completed for epoch 26
+Validation accuracy for epoch 26: 0.59875
+Validation time for this epoch: 0.39428114891052246
+Validation completed for epoch 27
+Validation accuracy for epoch 27: 0.55625
+Validation time for this epoch: 0.41001129150390625
+Validation completed for epoch 28
+Validation accuracy for epoch 28: 0.58875
+Validation time for this epoch: 0.3969881534576416
+Validation completed for epoch 29
+Validation accuracy for epoch 29: 0.595
+Validation time for this epoch: 0.4137132167816162
+Validation completed for epoch 30
+Validation accuracy for epoch 30: 0.6125
+Validation time for this epoch: 0.3866410255432129
+Validation completed for epoch 31
+Validation accuracy for epoch 31: 0.58
+Validation time for this epoch: 0.39604759216308594
+Validation completed for epoch 32
+Validation accuracy for epoch 32: 0.59
+Validation time for this epoch: 0.40155577659606934
+Validation completed for epoch 33
+Validation accuracy for epoch 33: 0.60375
+Validation time for this epoch: 0.3959486484527588
+Validation completed for epoch 34
+Validation accuracy for epoch 34: 0.605
+Validation time for this epoch: 0.3926124572753906
+Validation completed for epoch 35
+Validation accuracy for epoch 35: 0.58375
+Validation time for this epoch: 0.392305850982666
+Validation completed for epoch 36
+Validation accuracy for epoch 36: 0.59875
+Validation time for this epoch: 0.41663241386413574
+Validation completed for epoch 37
+Validation accuracy for epoch 37: 0.5975
+Validation time for this epoch: 0.4001009464263916
+Validation completed for epoch 38
+Validation accuracy for epoch 38: 0.60375
+Validation time for this epoch: 0.3995707035064697
+Validation completed for epoch 39
+Validation accuracy for epoch 39: 0.58375
+Validation time for this epoch: 0.39722585678100586
+Validation completed for epoch 40
+Validation accuracy for epoch 40: 0.56375
+Validation time for this epoch: 0.3917064666748047
+Validation completed for epoch 41
+Validation accuracy for epoch 41: 0.57875
+Validation time for this epoch: 0.3990485668182373
+Validation completed for epoch 42
+Validation accuracy for epoch 42: 0.59125
+Validation time for this epoch: 0.39624714851379395
+Validation completed for epoch 43
+Validation accuracy for epoch 43: 0.61125
+Validation time for this epoch: 0.2520616054534912
+Validation completed for epoch 44
+Validation accuracy for epoch 44: 0.615
+Validation time for this epoch: 0.3956298828125
+Validation completed for epoch 45
+Validation accuracy for epoch 45: 0.59875
+Validation time for this epoch: 0.2150118350982666
+Validation completed for epoch 46
+Validation accuracy for epoch 46: 0.59625
+Validation time for this epoch: 0.2376394271850586
+Validation completed for epoch 47
+Validation accuracy for epoch 47: 0.6
+Validation time for this epoch: 0.23219633102416992
+Validation completed for epoch 48
+Validation accuracy for epoch 48: 0.605
+Validation time for this epoch: 0.21114587783813477
+Validation completed for epoch 49
+Validation accuracy for epoch 49: 0.60375
+Validation time for this epoch: 0.20888686180114746
+Validation completed for epoch 50
+Validation accuracy for epoch 50: 0.6125
+Validation time for this epoch: 0.22474169731140137
+Validation completed for epoch 51
+Validation accuracy for epoch 51: 0.6125
+Validation time for this epoch: 0.2116382122039795
+Validation completed for epoch 52
+Validation accuracy for epoch 52: 0.6
+Validation time for this epoch: 0.23578143119812012
+Validation completed for epoch 53
+Validation accuracy for epoch 53: 0.6025
+Validation time for this epoch: 0.27953600883483887
+Validation completed for epoch 54
+Validation accuracy for epoch 54: 0.6075
+Validation time for this epoch: 0.21540045738220215
+Validation completed for epoch 55
+Validation accuracy for epoch 55: 0.6075
+Validation time for this epoch: 0.22371840476989746
+Validation completed for epoch 56
+Validation accuracy for epoch 56: 0.6125
+Validation time for this epoch: 0.22372841835021973
+Validation completed for epoch 57
+Validation accuracy for epoch 57: 0.605
+Validation time for this epoch: 0.21732544898986816
+Validation completed for epoch 58
+Validation accuracy for epoch 58: 0.60875
+Validation time for this epoch: 0.21081137657165527
+Validation completed for epoch 59
+Validation accuracy for epoch 59: 0.6125
+Validation time for this epoch: 0.2364053726196289
+Validation completed for epoch 60
+Validation accuracy for epoch 60: 0.61
+Validation time for this epoch: 0.23166346549987793
+Validation completed for epoch 61
+Validation accuracy for epoch 61: 0.61875
+Validation time for this epoch: 0.21631097793579102
+Validation completed for epoch 62
+Validation accuracy for epoch 62: 0.61625
+Validation time for this epoch: 0.22287225723266602
+Validation completed for epoch 63
+Validation accuracy for epoch 63: 0.61375
+Validation time for this epoch: 0.2150869369506836
+Validation completed for epoch 64
+Validation accuracy for epoch 64: 0.61125
+Validation time for this epoch: 0.2182788848876953
+Validation completed for epoch 65
+Validation accuracy for epoch 65: 0.6175
+Validation time for this epoch: 0.2581512928009033
+Validation completed for epoch 66
+Validation accuracy for epoch 66: 0.61375
+Validation time for this epoch: 0.21242094039916992
+Validation completed for epoch 67
+Validation accuracy for epoch 67: 0.61375
+Validation time for this epoch: 0.2255384922027588
+Validation completed for epoch 68
+Validation accuracy for epoch 68: 0.615
+Validation time for this epoch: 0.2250378131866455
+Validation completed for epoch 69
+Validation accuracy for epoch 69: 0.61375
+Validation time for this epoch: 0.2557368278503418
+Validation completed for epoch 70
+Validation accuracy for epoch 70: 0.6125
+Validation time for this epoch: 0.26288652420043945
+Validation completed for epoch 71
+Validation accuracy for epoch 71: 0.61375
+Validation time for this epoch: 0.20975852012634277
+Validation completed for epoch 72
+Validation accuracy for epoch 72: 0.61125
+Validation time for this epoch: 0.20846247673034668
+Validation completed for epoch 73
+Validation accuracy for epoch 73: 0.6125
+Validation time for this epoch: 0.2317194938659668
+Validation completed for epoch 74
+Validation accuracy for epoch 74: 0.6075
+Validation time for this epoch: 0.2409195899963379
+Validation completed for epoch 75
+Validation accuracy for epoch 75: 0.61
+Validation time for this epoch: 0.21000313758850098
+Validation completed for epoch 76
+Validation accuracy for epoch 76: 0.6075
+Validation time for this epoch: 0.21958470344543457
+Validation completed for epoch 77
+Validation accuracy for epoch 77: 0.60625
+Validation time for this epoch: 0.24522733688354492
+Validation completed for epoch 78
+Validation accuracy for epoch 78: 0.60625
+Validation time for this epoch: 0.23276233673095703
+Validation completed for epoch 79
+Validation accuracy for epoch 79: 0.605
+Validation time for this epoch: 0.22466754913330078
+Validation completed for epoch 80
+Validation accuracy for epoch 80: 0.6025
+Validation time for this epoch: 0.21148276329040527
+Validation completed for epoch 81
+Validation accuracy for epoch 81: 0.60375
+Validation time for this epoch: 0.20805120468139648
+Validation completed for epoch 82
+Validation accuracy for epoch 82: 0.6
+Validation time for this epoch: 0.20558500289916992
+Validation completed for epoch 83
+Validation accuracy for epoch 83: 0.60125
+Validation time for this epoch: 0.20179414749145508
+Validation completed for epoch 84
+Validation accuracy for epoch 84: 0.6025
+Validation time for this epoch: 0.23993229866027832
+Validation completed for epoch 85
+Validation accuracy for epoch 85: 0.60625
+Validation time for this epoch: 0.21724629402160645
+Validation completed for epoch 86
+Validation accuracy for epoch 86: 0.60125
+Validation time for this epoch: 0.21375060081481934
+Validation completed for epoch 87
+Validation accuracy for epoch 87: 0.6025
+Validation time for this epoch: 0.21094536781311035
+Validation completed for epoch 88
+Validation accuracy for epoch 88: 0.60375
+Validation time for this epoch: 0.29500722885131836
+Validation completed for epoch 89
+Validation accuracy for epoch 89: 0.6
+Validation time for this epoch: 0.20671987533569336
+Validation completed for epoch 90
+Validation accuracy for epoch 90: 0.6
+Validation time for this epoch: 0.21840357780456543
+Validation completed for epoch 91
+Validation accuracy for epoch 91: 0.60125
+Validation time for this epoch: 0.2517068386077881
+Validation completed for epoch 92
+Validation accuracy for epoch 92: 0.6
+Validation time for this epoch: 0.2144765853881836
+Validation completed for epoch 93
+Validation accuracy for epoch 93: 0.5975
+Validation time for this epoch: 0.22539401054382324
+Validation completed for epoch 94
+Validation accuracy for epoch 94: 0.60125
+Validation time for this epoch: 0.2260608673095703
+Validation completed for epoch 95
+Validation accuracy for epoch 95: 0.60125
+Validation time for this epoch: 0.21468305587768555
+Validation completed for epoch 96
+Validation accuracy for epoch 96: 0.6
+Validation time for this epoch: 0.2305595874786377
+Validation completed for epoch 97
+Validation accuracy for epoch 97: 0.6
+Validation time for this epoch: 0.23210358619689941
+Validation completed for epoch 98
+Validation accuracy for epoch 98: 0.60125
+Validation time for this epoch: 0.2193000316619873
+Validation completed for epoch 99
+Validation accuracy for epoch 99: 0.6
+Validation time for this epoch: 0.21652650833129883
+Validation completed for epoch 100
+Validation accuracy for epoch 100: 0.59875
+Validation time for this epoch: 0.19722986221313477
+End of program
+
+Start of testing: Namespace(hidden_dim=128, epochs=100, train_data='./training.json', val_data='./validation.json', test_data='to fill', do_train=False)Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.5425
+Validation time for this epoch: 0.401735782623291
+Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.59375
+Validation time for this epoch: 0.40715909004211426
+Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.5875
+Validation time for this epoch: 0.41867804527282715
+Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.56875
+Validation time for this epoch: 0.8326773643493652
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.605
+Validation time for this epoch: 0.8290541172027588
+Validation completed for epoch 6
+Validation accuracy for epoch 6: 0.605
+Validation time for this epoch: 0.8387305736541748
+Validation completed for epoch 7
+Validation accuracy for epoch 7: 0.57125
+Validation time for this epoch: 0.8137168884277344
+Validation completed for epoch 8
+Validation accuracy for epoch 8: 0.56125
+Validation time for this epoch: 0.7972433567047119
+Validation completed for epoch 9
+Validation accuracy for epoch 9: 0.61125
+Validation time for this epoch: 0.8454675674438477
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.6375
+Validation time for this epoch: 0.8421223163604736
+Validation completed for epoch 11
+Validation accuracy for epoch 11: 0.595
+Validation time for this epoch: 0.8838598728179932
+Validation completed for epoch 12
+Validation accuracy for epoch 12: 0.595
+Validation time for this epoch: 0.8250646591186523
+Validation completed for epoch 13
+Validation accuracy for epoch 13: 0.59625
+Validation time for this epoch: 0.9005029201507568
+Validation completed for epoch 14
+Validation accuracy for epoch 14: 0.56625
+Validation time for this epoch: 0.8787155151367188
+Validation completed for epoch 15
+Validation accuracy for epoch 15: 0.5875
+Validation time for this epoch: 0.8570363521575928
+Validation completed for epoch 16
+Validation accuracy for epoch 16: 0.57625
+Validation time for this epoch: 0.8128499984741211
+Validation completed for epoch 17
+Validation accuracy for epoch 17: 0.60125
+Validation time for this epoch: 0.8103935718536377
+Validation completed for epoch 18
+Validation accuracy for epoch 18: 0.61625
+Validation time for this epoch: 0.8399786949157715
+Validation completed for epoch 19
+Validation accuracy for epoch 19: 0.58375
+Validation time for this epoch: 0.865748405456543
+Validation completed for epoch 20
+Validation accuracy for epoch 20: 0.59125
+Validation time for this epoch: 0.8206405639648438
+Validation completed for epoch 21
+Validation accuracy for epoch 21: 0.6025
+Validation time for this epoch: 1.156365156173706
+Validation completed for epoch 22
+Validation accuracy for epoch 22: 0.5725
+Validation time for this epoch: 0.4225778579711914
+Validation completed for epoch 23
+Validation accuracy for epoch 23: 0.58875
+Validation time for this epoch: 0.7992172241210938
+Validation completed for epoch 24
+Validation accuracy for epoch 24: 0.60875
+Validation time for this epoch: 0.8406188488006592
+Validation completed for epoch 25
+Validation accuracy for epoch 25: 0.595
+Validation time for this epoch: 0.8487415313720703
+Validation completed for epoch 26
+Validation accuracy for epoch 26: 0.60375
+Validation time for this epoch: 0.8098106384277344
+Validation completed for epoch 27
+Validation accuracy for epoch 27: 0.60875
+Validation time for this epoch: 0.8117449283599854
+Validation completed for epoch 28
+Validation accuracy for epoch 28: 0.61375
+Validation time for this epoch: 0.8111519813537598
+Validation completed for epoch 29
+Validation accuracy for epoch 29: 0.60875
+Validation time for this epoch: 0.8073170185089111
+Validation completed for epoch 30
+Validation accuracy for epoch 30: 0.61
+Validation time for this epoch: 0.44582319259643555
+Validation completed for epoch 31
+Validation accuracy for epoch 31: 0.605
+Validation time for this epoch: 0.42691850662231445
+Validation completed for epoch 32
+Validation accuracy for epoch 32: 0.60375
+Validation time for this epoch: 0.4347512722015381
+Validation completed for epoch 33
+Validation accuracy for epoch 33: 0.59875
+Validation time for this epoch: 0.4293386936187744
+Validation completed for epoch 34
+Validation accuracy for epoch 34: 0.60125
+Validation time for this epoch: 0.4232945442199707
+Validation completed for epoch 35
+Validation accuracy for epoch 35: 0.60125
+Validation time for this epoch: 0.43683815002441406
+Validation completed for epoch 36
+Validation accuracy for epoch 36: 0.60125
+Validation time for this epoch: 0.4404141902923584
+Validation completed for epoch 37
+Validation accuracy for epoch 37: 0.59875
+Validation time for this epoch: 0.43871092796325684
+Validation completed for epoch 38
+Validation accuracy for epoch 38: 0.6025
+Validation time for this epoch: 0.4332304000854492
+Validation completed for epoch 39
+Validation accuracy for epoch 39: 0.6025
+Validation time for this epoch: 0.43430519104003906
+Validation completed for epoch 40
+Validation accuracy for epoch 40: 0.60125
+Validation time for this epoch: 0.4326457977294922
+Validation completed for epoch 41
+Validation accuracy for epoch 41: 0.60125
+Validation time for this epoch: 0.4523639678955078
+Validation completed for epoch 42
+Validation accuracy for epoch 42: 0.60125
+Validation time for this epoch: 0.4550795555114746
+Validation completed for epoch 43
+Validation accuracy for epoch 43: 0.6025
+Validation time for this epoch: 0.44309163093566895
+Validation completed for epoch 44
+Validation accuracy for epoch 44: 0.6
+Validation time for this epoch: 0.4458639621734619
+Validation completed for epoch 45
+Validation accuracy for epoch 45: 0.6
+Validation time for this epoch: 0.43714356422424316
+Validation completed for epoch 46
+Validation accuracy for epoch 46: 0.60125
+Validation time for this epoch: 0.4283020496368408
+Validation completed for epoch 47
+Validation accuracy for epoch 47: 0.59875
+Validation time for this epoch: 0.45285630226135254
+Validation completed for epoch 48
+Validation accuracy for epoch 48: 0.6025
+Validation time for this epoch: 0.43749570846557617
+Validation completed for epoch 49
+Validation accuracy for epoch 49: 0.60125
+Validation time for this epoch: 0.4400930404663086
+Validation completed for epoch 50
+Validation accuracy for epoch 50: 0.60125
+Validation time for this epoch: 0.4473557472229004
+Validation completed for epoch 51
+Validation accuracy for epoch 51: 0.60125
+Validation time for this epoch: 0.41961050033569336
+Validation completed for epoch 52
+Validation accuracy for epoch 52: 0.6
+Validation time for this epoch: 0.42856359481811523
+Validation completed for epoch 53
+Validation accuracy for epoch 53: 0.60125
+Validation time for this epoch: 0.42825961112976074
+Validation completed for epoch 54
+Validation accuracy for epoch 54: 0.59875
+Validation time for this epoch: 0.432720422744751
+Validation completed for epoch 55
+Validation accuracy for epoch 55: 0.59875
+Validation time for this epoch: 0.4333455562591553
+Validation completed for epoch 56
+Validation accuracy for epoch 56: 0.59875
+Validation time for this epoch: 0.446596622467041
+Validation completed for epoch 57
+Validation accuracy for epoch 57: 0.6
+Validation time for this epoch: 0.4172945022583008
+Validation completed for epoch 58
+Validation accuracy for epoch 58: 0.60125
+Validation time for this epoch: 0.43127918243408203
+Validation completed for epoch 59
+Validation accuracy for epoch 59: 0.6
+Validation time for this epoch: 0.42710232734680176
+Validation completed for epoch 60
+Validation accuracy for epoch 60: 0.60125
+Validation time for this epoch: 0.4328269958496094
+Validation completed for epoch 61
+Validation accuracy for epoch 61: 0.59625
+Validation time for this epoch: 0.4267008304595947
+Validation completed for epoch 62
+Validation accuracy for epoch 62: 0.60125
+Validation time for this epoch: 0.4538137912750244
+Validation completed for epoch 63
+Validation accuracy for epoch 63: 0.60125
+Validation time for this epoch: 0.4546775817871094
+Validation completed for epoch 64
+Validation accuracy for epoch 64: 0.6
+Validation time for this epoch: 0.42211055755615234
+Validation completed for epoch 65
+Validation accuracy for epoch 65: 0.60125
+Validation time for this epoch: 0.44301533699035645
+Validation completed for epoch 66
+Validation accuracy for epoch 66: 0.59875
+Validation time for this epoch: 0.4530191421508789
+Validation completed for epoch 67
+Validation accuracy for epoch 67: 0.59875
+Validation time for this epoch: 0.4396786689758301
+Validation completed for epoch 68
+Validation accuracy for epoch 68: 0.59875
+Validation time for this epoch: 0.44076061248779297
+Validation completed for epoch 69
+Validation accuracy for epoch 69: 0.6
+Validation time for this epoch: 0.4438490867614746
+Validation completed for epoch 70
+Validation accuracy for epoch 70: 0.6
+Validation time for this epoch: 0.4366757869720459
+Validation completed for epoch 71
+Validation accuracy for epoch 71: 0.59625
+Validation time for this epoch: 0.4315640926361084
+Validation completed for epoch 72
+Validation accuracy for epoch 72: 0.5975
+Validation time for this epoch: 0.443756103515625
+Validation completed for epoch 73
+Validation accuracy for epoch 73: 0.5975
+Validation time for this epoch: 0.4400918483734131
+Validation completed for epoch 74
+Validation accuracy for epoch 74: 0.59875
+Validation time for this epoch: 0.43910717964172363
+Validation completed for epoch 75
+Validation accuracy for epoch 75: 0.59875
+Validation time for this epoch: 0.4379587173461914
+Validation completed for epoch 76
+Validation accuracy for epoch 76: 0.5975
+Validation time for this epoch: 0.4379110336303711
+Validation completed for epoch 77
+Validation accuracy for epoch 77: 0.59875
+Validation time for this epoch: 0.4880354404449463
+Validation completed for epoch 78
+Validation accuracy for epoch 78: 0.59625
+Validation time for this epoch: 0.4300234317779541
+Validation completed for epoch 79
+Validation accuracy for epoch 79: 0.59625
+Validation time for this epoch: 0.43354368209838867
+Validation completed for epoch 80
+Validation accuracy for epoch 80: 0.59625
+Validation time for this epoch: 0.4978199005126953
+Validation completed for epoch 81
+Validation accuracy for epoch 81: 0.59625
+Validation time for this epoch: 0.43518590927124023
+Validation completed for epoch 82
+Validation accuracy for epoch 82: 0.59625
+Validation time for this epoch: 0.4499988555908203
+Validation completed for epoch 83
+Validation accuracy for epoch 83: 0.59625
+Validation time for this epoch: 0.43034982681274414
+Validation completed for epoch 84
+Validation accuracy for epoch 84: 0.59625
+Validation time for this epoch: 0.4264407157897949
+Validation completed for epoch 85
+Validation accuracy for epoch 85: 0.5975
+Validation time for this epoch: 0.4356410503387451
+Validation completed for epoch 86
+Validation accuracy for epoch 86: 0.59625
+Validation time for this epoch: 0.4461815357208252
+Validation completed for epoch 87
+Validation accuracy for epoch 87: 0.59625
+Validation time for this epoch: 0.439594030380249
+Validation completed for epoch 88
+Validation accuracy for epoch 88: 0.59625
+Validation time for this epoch: 0.4557969570159912
+Validation completed for epoch 89
+Validation accuracy for epoch 89: 0.5975
+Validation time for this epoch: 0.45124006271362305
+Validation completed for epoch 90
+Validation accuracy for epoch 90: 0.59625
+Validation time for this epoch: 0.42804574966430664
+Validation completed for epoch 91
+Validation accuracy for epoch 91: 0.59625
+Validation time for this epoch: 0.3937876224517822
+Validation completed for epoch 92
+Validation accuracy for epoch 92: 0.59625
+Validation time for this epoch: 0.3947434425354004
+Validation completed for epoch 93
+Validation accuracy for epoch 93: 0.59625
+Validation time for this epoch: 0.4510345458984375
+Validation completed for epoch 94
+Validation accuracy for epoch 94: 0.59625
+Validation time for this epoch: 0.4320952892303467
+Validation completed for epoch 95
+Validation accuracy for epoch 95: 0.59625
+Validation time for this epoch: 0.39759278297424316
+Validation completed for epoch 96
+Validation accuracy for epoch 96: 0.595
+Validation time for this epoch: 0.401491641998291
+Validation completed for epoch 97
+Validation accuracy for epoch 97: 0.59625
+Validation time for this epoch: 0.40917468070983887
+Validation completed for epoch 98
+Validation accuracy for epoch 98: 0.5975
+Validation time for this epoch: 1.142848014831543
+Validation completed for epoch 99
+Validation accuracy for epoch 99: 0.59625
+Validation time for this epoch: 0.4420285224914551
+Validation completed for epoch 100
+Validation accuracy for epoch 100: 0.5975
+Validation time for this epoch: 0.4332418441772461
+End of program
+
