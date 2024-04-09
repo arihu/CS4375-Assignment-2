@@ -78,7 +78,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
     ###Edited write to file
-    f = open("test_RNN.out", "a")
+    f = open("results/test_RNN.out", "a")
     f.write(f"Start of testing: {args}")
     ########
     print("========== Loading data ==========")
