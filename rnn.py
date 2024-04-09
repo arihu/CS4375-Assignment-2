@@ -19,7 +19,6 @@ unk = "<UNK>"
 # Consult the PyTorch documentation for information on the functions used below:
 # https://pytorch.org/docs/stable/torch.html
 class RNN(nn.Module):
-
     def __init__(self, input_dim, h):  # Add relevant parameters
         super(RNN, self).__init__()
         self.h = h
@@ -35,12 +34,16 @@ class RNN(nn.Module):
     def forward(self, inputs):
         # [to fill] obtain hidden layer representation (https://pytorch.org/docs/stable/generated/torch.nn.RNN.html)
         rnn_output, _ = self.rnn(inputs)
+
         # [to fill] obtain output layer representations
         output = self.W(rnn_output)
+
         # [to fill] sum over output
         summed_output = torch.sum(output, dim=0)
+
         # [to fill] obtain probability dist.
         predicted_vector = self.softmax(summed_output)
+
         return predicted_vector
 
 
@@ -60,6 +63,7 @@ def load_data(train_data, val_data):
 
 
 if __name__ == "__main__":
+
     parser = ArgumentParser()
     parser.add_argument(
         "-hd", "--hidden_dim", type=int, required=True, help="hidden_dim"
@@ -71,8 +75,12 @@ if __name__ == "__main__":
     parser.add_argument("--val_data", required=True, help="path to validation data")
     parser.add_argument("--test_data", default="to fill", help="path to test data")
     parser.add_argument("--do_train", action="store_true")
-    args = parser.parse_args()
 
+    args = parser.parse_args()
+    ###Edited write to file
+    f = open("test_RNN.out", "a")
+    f.write(f"Start of testing: {args}")
+    ########
     print("========== Loading data ==========")
     train_data, valid_data = load_data(
         args.train_data, args.val_data
@@ -102,6 +110,7 @@ if __name__ == "__main__":
         model.train()
         # You will need further code to operationalize training, ffnn.py may be helpful
         print("Training started for epoch {}".format(epoch + 1))
+        f.write("Training started for epoch {}\n".format(epoch + 1))
         train_data = train_data
         correct = 0
         total = 0
@@ -135,7 +144,7 @@ if __name__ == "__main__":
                 ]
 
                 # Transform the input into required shape
-                vectors = torch.tensor(np.array(vectors)).view(len(vectors), 1, -1)
+                vectors = torch.tensor(vectors).view(len(vectors), 1, -1)
                 output = model(vectors)
 
                 # Get loss
@@ -160,8 +169,13 @@ if __name__ == "__main__":
             loss.backward()
             optimizer.step()
         print(loss_total / loss_count)
+        f.write(f"{loss_total/loss_count}\n")
         print("Training completed for epoch {}".format(epoch + 1))
+        f.write("Training completed for epoch {}\n".format(epoch + 1))
         print("Training accuracy for epoch {}: {}".format(epoch + 1, correct / total))
+        f.write(
+            "Training accuracy for epoch {}: {}\n".format(epoch + 1, correct / total)
+        )
         trainning_accuracy = correct / total
 
         model.eval()
@@ -185,14 +199,18 @@ if __name__ == "__main__":
                 for i in input_words
             ]
 
-            vectors = torch.tensor(np.array(vectors)).view(len(vectors), 1, -1)
+            vectors = torch.tensor(vectors).view(len(vectors), 1, -1)
             output = model(vectors)
             predicted_label = torch.argmax(output)
             correct += int(predicted_label == gold_label)
             total += 1
             # print(predicted_label, gold_label)
         print("Validation completed for epoch {}".format(epoch + 1))
+        f.write("Validation completed for epoch {}\n".format(epoch + 1))
         print("Validation accuracy for epoch {}: {}".format(epoch + 1, correct / total))
+        f.write(
+            "Validation accuracy for epoch {}: {}\n".format(epoch + 1, correct / total)
+        )
         validation_accuracy = correct / total
 
         if (
@@ -201,7 +219,9 @@ if __name__ == "__main__":
         ):
             stopping_condition = True
             print("Training done to avoid overfitting!")
+            f.write("Training done to avoid overfitting!\n")
             print("Best validation accuracy is:", last_validation_accuracy)
+            f.write(f"Best validation accuracy is: {last_validation_accuracy}\n\n")
         else:
             last_validation_accuracy = validation_accuracy
             last_train_accuracy = trainning_accuracy
